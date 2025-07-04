@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@layer components {
+    .gradient{
+        background-color:'bg-gradient-to-r from-teal-600 via-blue-600 to-pink-600';
+    }
+}
